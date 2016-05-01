@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/daniel/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-ws-2.5.0_30863d7eef59fc9bbc5f9c87da52db65ee01e6cb/classes.dex" />
+    </item>
+    <item
+        jar="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_bf59e89e37fd52a4d31b04a34065dd221ed7cf93/classes.dex" />
+    </item>
+    <item
+        jar="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-drawee-0.8.1_eeb2cdb5557b96171a9526d181e4409c347a6a16/classes.dex" />
+    </item>
+    <item
+        jar="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fresco-0.8.1_8faf237eab88b55c97c73ca45198386273284117/classes.dex" />
+    </item>
+    <item
+        jar="/home/daniel/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_545cb6902afe47ceafadd46f939f8bd8da00d133/classes.dex" />
+    </item>
+    <item
+        jar="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_e5983ddb690e36bea5677eb00ce744edcba5ed99/classes.dex" />
+    </item>
+    <item
+        jar="/home/daniel/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.3_3d7195e0e4e1c5c71b53bbc9f55ef9b4fed05e36/classes.dex" />
+    </item>
+    <item
+        jar="/home/daniel/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.5.0_444ecf905e3dba4530397676c57c3c186629d2b2/classes.dex" />
+    </item>
+    <item
+        jar="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-okhttp-0.8.1_699f297af1a8985b5cc0a9e1c3a95d90afd9b8e9/classes.dex" />
+    </item>
+    <item
+        jar="/home/daniel/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_f7a116e39cb5a90a548d25c80dd2ac6c71b87548/classes.dex" />
+    </item>
+    <item
+        jar="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.24.1/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="50bae83a0680cb90776a4d36bb6aa4911a84fd8b">
+        <dex dex="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-1.5_5f296416d8a4acf984b6226c97f046d9376a688c/classes.dex" />
+    </item>
+    <item
+        jar="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="7be6fa148ee6969389e45f076f483b9430ebc62a">
+        <dex dex="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4d7f859eb251255088014a8e0e882d8c100cc75e/classes.dex" />
+    </item>
+    <item
+        jar="/home/daniel/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_550bdeadff2b5bca853e4953fd3525e292fb7966/classes.dex" />
+    </item>
+    <item
+        jar="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-0.8.1_3d4ec64a9de13595ffeab77205f09e51021f81db/classes.dex" />
+    </item>
+    <item
+        jar="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e5f325adbc5f0214ad9afeb2a11b94a3b50f7da7">
+        <dex dex="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_aec3fcbb26b8ef7862242ed014f3abf79eccde01/classes.dex" />
+    </item>
+    <item
+        jar="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_3f08aa9cc125082410e20bb6068f2c73678a490e/classes.dex" />
+    </item>
+    <item
+        jar="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.24.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d12931c7b260dda5ba99b8c89cd6ec2a104abed3">
+        <dex dex="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.react-react-native-0.24.1_d30e017887a6f3831f41a2721cd4a56e7a4434eb/classes.dex" />
+    </item>
+    <item
+        jar="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fbcore-0.8.1_0f463836dd4dcc28ef4058fad140cd13e287eefc/classes.dex" />
+    </item>
+    <item
+        jar="/home/daniel/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_f01153c31848fef2756891a8376488b903c55bad/classes.dex" />
+    </item>
+    <item
+        jar="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_c03ebf1a51151fd6fb15f0449755a1b620c256a5/classes.dex" />
+    </item>
+    <item
+        jar="/home/daniel/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/home/daniel/AndroidStudioProjects/example5/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-android-1.1.4_c5aa3b6328e43a3b191332aabdac13657cd52e7b/classes.dex" />
+    </item>
+
+</items>
