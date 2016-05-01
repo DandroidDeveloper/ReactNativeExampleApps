@@ -17,7 +17,7 @@ class todolist extends Component {
   // Your App Code
 constructor(props) {
   super(props);
-  var myFirebaseRef = new Firebase('https://blazing-torch-9007.firebaseio.com/');
+  var myFirebaseRef = new Firebase('Your firebase url');
   this.itemsRef = myFirebaseRef.child('items');
  
   this.state = {
